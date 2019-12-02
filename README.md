@@ -1,1 +1,1 @@
-# spring-boot-starter-pi4j
+# pi4j-spring-boot-starter
